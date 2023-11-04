@@ -9,6 +9,8 @@ const Color buttonColor = Colors.teal;
 const Color buttonText = Colors.white;
 const Color backgroundColor = Color.fromARGB(255, 58, 58, 60);
 
+const String score = '50';
+
 void main() {
   runApp(const MyApp());
 }
@@ -25,7 +27,7 @@ class MyApp extends StatelessWidget {
       ),
       routes: {
         "/": (context) => const MainPage(),
-        "/score": (context) => ScorecardPage(score: 'score'),
+        "/score": (context) => ScorecardPage(score: score)
       },
     );
   }
