@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'LessonsPage.dart';
 import 'HomePage.dart';
 import 'ScorecardPage.dart';
+import 'SpendingPage.dart';
 
 const Color buttonColor = Colors.teal;
 const Color buttonText = Colors.white;
@@ -43,6 +44,7 @@ class MainPage extends StatefulWidget {
 class _MainPageState extends State<MainPage> {
   int _selectedIndex = 2;
   var pages = {
+    0: SpendingPage(),
     1: ScorecardPage(score: '123'),
     2: const HomePage(),
     3: const LessonsPage()
