@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
       ),
       routes: {
         "/": (context) => const MainPage(),
-        "/score": (context) => ScorecardPage(score: 'score')
+        "/score": (context) => ScorecardPage(score: 'score'),
       },
     );
   }

@@ -7,11 +7,11 @@ class LessonsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     List<Widget> Cards = [
-      createCard('images/interest.jpg', "Interest", "interest description",
-          "/interest", context),
-      createCard('images/interest.jpg', "Debt", "dont use credit cards",
-          "/debt", context),
-      createCard('images/interest.jpg', "Interest", "3333", "/suren", context)
+      createCard(
+          'images/interest.jpg', "Interest", "interest description", context),
+      createCard(
+          'images/interest.jpg', "Debt", "dont use credit cards", context),
+      createCard('images/interest.jpg', "Interest", "3333", context)
     ];
     return SingleChildScrollView(
       child: Padding(
@@ -33,8 +33,8 @@ class LessonsPage extends StatelessWidget {
   }
 }
 
-Widget createCard(String imgUrl, String header, String body, String routeName,
-    BuildContext context) {
+Widget createCard(
+    String imgUrl, String header, String body, BuildContext context) {
   return Card(
     shape: RoundedRectangleBorder(
       borderRadius: BorderRadius.circular(8),
@@ -74,7 +74,7 @@ Widget createCard(String imgUrl, String header, String body, String routeName,
                   const Spacer(),
                   ElevatedButton(
                     onPressed: () {
-                      Navigator.pushNamed(context, routeName);
+                      _openAnimatedDialog(context, header, body);
                     },
                     style: ElevatedButton.styleFrom(
                       elevation: 50,
@@ -99,5 +99,36 @@ Widget createCard(String imgUrl, String header, String body, String routeName,
         Container(height: 5),
       ],
     ),
+  );
+}
+// transitionBuilder: (context, animation, secondaryAnimation, child) {
+// 						    return AlertDialog(
+//                               backgroundColor: backgroundColor,
+//                               title: Text(header),
+//                               content: Text("Lorem ipsum dolor si"));
+// 						  }
+
+void _openAnimatedDialog(BuildContext context, String header, String body) {
+  showGeneralDialog(
+    context: context,
+    barrierDismissible: true,
+    barrierLabel: '',
+    transitionDuration: const Duration(milliseconds: 170),
+    pageBuilder: (context, animation, secondaryAnimation) {
+      return Container();
+    },
+    transitionBuilder: (context, a1, a2, widget) {
+      return ScaleTransition(
+          scale: Tween<double>(begin: 0.80, end: 1.0).animate(a1),
+          child: FadeTransition(
+            opacity: Tween<double>(begin: 0.5, end: 1.0).animate(a1),
+            child: AlertDialog(
+                title: Text(header),
+                content: Text(body),
+                shape: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(16.0),
+                    borderSide: BorderSide.none)),
+          ));
+    },
   );
 }
