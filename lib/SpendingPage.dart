@@ -12,7 +12,7 @@ class SpendingPage extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.all(8.0),
       child: ExpansionTile(
-        tilePadding: EdgeInsets.all(8.5),
+        tilePadding: EdgeInsets.all(8.0),
         trailing: Icon(
           Icons.arrow_drop_down,
           color: buttonText,
