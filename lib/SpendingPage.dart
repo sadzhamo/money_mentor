@@ -6,7 +6,14 @@ class SpendingPage extends StatelessWidget {
 
   SpendingPage({super.key});
   
-  var explist = [Expense("Food", 1500, [Transaction("McDonalds", 300)])];
+  List<Expense> explist = [
+  Expense("Food", 1500, [Transaction("McDonalds", 300)]),
+  Expense("Food", 1500, [Transaction("McDonalds", 300)]),
+  Expense("Food", 1500, [Transaction("McDonalds", 300)]),
+  Expense("Food", 1500, [Transaction("McDonalds", 300)]),
+  Expense("Food", 1500, [Transaction("McDonalds", 300)]),
+  Expense("Food", 1500, [Transaction("McDonalds", 300)]),
+  ];
 
   Widget createExpansionTile(String name, int num, List<Transaction> objects) {
     return Padding(
@@ -79,7 +86,8 @@ class SpendingPage extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-        title: const Text('Monthly Expenses: \$4500', style: TextStyle(color: buttonText)),
+        centerTitle: true,
+        title: const Text('Total Monthly Expenses: \$4500', style: TextStyle(color: buttonText),),
         backgroundColor: Colors.transparent,
         ),
         body: SafeArea(
