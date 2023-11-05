@@ -1,0 +1,52 @@
+{
+    "Account ID": "pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP",
+    "Transactions": [
+      {
+        "Transaction": "United Airlines",
+        "Amount": "$500.00",
+        "Category": "Non-Essential"
+      },
+      {
+        "Transaction": "Tectra Inc",
+        "Amount": "$500.00",
+        "Category": "Other"
+      },
+      {
+        "Transaction": "AUTOMATIC PAYMENT - THANK",
+        "Amount": "$2078.50",
+        "Category": "Essential"
+      },
+      {
+        "Transaction": "KFC",
+        "Amount": "$500.00",
+        "Category": "Non-Essential"
+      },
+      {
+        "Transaction": "Madison Bicycle Shop",
+        "Amount": "$500.00",
+        "Category": "Other"
+      },
+      {
+        "Transaction": "Touchstone Climbing",
+        "Amount": "$78.50",
+        "Category": "Non-Essential"
+      }
+    ],
+    "Month-Year": [
+      "2021-11",
+      "2022-03",
+      "2022-05",
+      "2022-02",
+      "2022-06",
+      "2022-07",
+      "2022-01"
+    ],
+    "Total spending on Essentials": "$2078.50",
+    "Total spending on Non-Essentials": "$1078.50",
+    "Budget for Essentials": "$1973.12",
+    "Budget for Non-Essentials": "$1183.88",
+    "Compliance with Essential budget": "No",
+    "Base Score": "60",
+    "Score from Essentials Budget Compliance": "-4",
+    "Score from Non-Essentials Budget Compliance": "2"
+  }
