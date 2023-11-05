@@ -45,7 +45,7 @@ class _MyAppState extends State<BudgetPage> {
                     ),
                     controller: nameControllers[i - 1],
                     decoration: InputDecoration(
-                      labelText: 'Name for Field $i',
+                      labelText: 'Name for Field',
                       labelStyle: TextStyle(color: buttonText),
                     ),
                   ),
@@ -58,7 +58,7 @@ class _MyAppState extends State<BudgetPage> {
                     controller: textControllers[i - 1],
                     keyboardType: TextInputType.number,
                     decoration: InputDecoration(
-                      labelText: 'Enter Integer $i',
+                      labelText: 'Enter Amount (\$)',
                       labelStyle: TextStyle(color: buttonText),
                     ),
                   ),
@@ -110,7 +110,7 @@ class _MyAppState extends State<BudgetPage> {
                 child: TextField(
                   controller: nameControllers.last,
                   decoration: InputDecoration(
-                    labelText: 'Name for Field $nextField',
+                    labelText: 'Name for Field',
                     labelStyle: TextStyle(color: buttonText),
                   ),
                 ),
@@ -120,7 +120,7 @@ class _MyAppState extends State<BudgetPage> {
                   controller: textControllers.last,
                   keyboardType: TextInputType.number,
                   decoration: InputDecoration(
-                    labelText: 'Enter Integer $nextField',
+                    labelText: 'Enter Integer (\$)',
                     labelStyle: TextStyle(color: buttonText),
                   ),
                 ),
