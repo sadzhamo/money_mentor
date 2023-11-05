@@ -171,7 +171,7 @@ Widget createCard(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: <Widget>[
         Image.asset(
-          'images/interest.jpg',
+          imgUrl,
           height: 180,
           width: double.infinity,
           fit: BoxFit.cover,
