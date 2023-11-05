@@ -7,12 +7,12 @@ class SpendingPage extends StatelessWidget {
   SpendingPage({super.key});
   
   List<Expense> explist = [
-  Expense("Food", 1500, [Transaction("McDonalds", 300)]),
-  Expense("Food", 1500, [Transaction("McDonalds", 300)]),
-  Expense("Food", 1500, [Transaction("McDonalds", 300)]),
-  Expense("Food", 1500, [Transaction("McDonalds", 300)]),
-  Expense("Food", 1500, [Transaction("McDonalds", 300)]),
-  Expense("Food", 1500, [Transaction("McDonalds", 300)]),
+  Expense("Living Expenses", 1200, [Transaction("Rent", 900),Transaction("Electricity", 60),Transaction("Water", 30),]),
+  Expense("Enternainment", 340, [Transaction("Bowling", 60), Transaction("Video Games", 60),Transaction("Shopping", 220)]),
+  Expense("Subscriptions", 40, [Transaction("Netflix", 10),Transaction("Spotify", 10),Transaction("ChatGPT", 20)]),
+  Expense("Transportation", 350, [Transaction("Gasoline", 150), Transaction("Flights", 200)]),
+  Expense("Food", 450, [Transaction("Groceries", 150),Transaction("Mcdonalds", 50),Transaction("Starbucks", 250)]),
+  Expense("Debt", 500, [Transaction("Car", 250),Transaction("Phone", 100), Transaction("Student Loan", 150)]),
   ];
 
   Widget createExpansionTile(String name, int num, List<Transaction> objects) {
