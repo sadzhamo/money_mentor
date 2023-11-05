@@ -1,0 +1,2433 @@
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2021-11
+Total spending on Essentials: $25.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $15.62
+Budget for Non-Essentials: $9.38
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2021-12
+Total spending on Essentials: $16.56
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $10.35
+Budget for Non-Essentials: $6.21
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2022-01
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2022-02
+Total spending on Essentials: $25.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $15.62
+Budget for Non-Essentials: $9.38
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2022-03
+Total spending on Essentials: $16.56
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $10.35
+Budget for Non-Essentials: $6.21
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2022-04
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2022-05
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2022-06
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2022-07
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2022-08
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2022-09
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2022-10
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2022-11
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2022-12
+Total spending on Essentials: $45.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $28.61
+Budget for Non-Essentials: $17.17
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2023-01
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2023-02
+Total spending on Essentials: $-4.22
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $-2.64
+Budget for Non-Essentials: $-1.58
+Compliance with Essential budget: Yes
+Compliance with Non-Essential budget: No
+Base Score:  60
+Score from Essentials Budget Compliance:  4
+Score from Non-Essentials Budget Compliance:  -2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the non-essential budget.
+Final Score for the month: 72
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2023-03
+Total spending on Essentials: $45.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $28.61
+Budget for Non-Essentials: $17.17
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2023-04
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2023-05
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2023-06
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2023-07
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2023-08
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2023-09
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: CREDIT CARD 3333 PAYMENT *//, Amount: $25.00, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Transaction: INTRST PYMNT, Amount: $-4.22, Category: Essential
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n, Month-Year: 2023-10
+Total spending on Essentials: $20.78
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $12.99
+Budget for Non-Essentials: $7.79
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: 1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2021-11
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2021-12
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2022-01
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2022-02
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2022-03
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2022-04
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2022-05
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2022-06
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2022-07
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2022-08
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2022-09
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2022-10
+Total spending on Essentials: $2000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $1250.00
+Budget for Non-Essentials: $750.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2022-11
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2022-12
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2023-01
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2023-02
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2023-03
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2023-04
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2023-05
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2023-06
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2023-07
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2023-08
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2023-09
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Transaction: CD DEPOSIT .INITIAL., Amount: $1000.00, Category: Essential
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V, Month-Year: 2023-10
+Total spending on Essentials: $1000.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $625.00
+Budget for Non-Essentials: $375.00
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2021-11
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $11.73
+Budget for Essentials: $7.33
+Budget for Non-Essentials: $4.40
+Compliance with Essential budget: Yes
+Compliance with Non-Essential budget: No
+Base Score:  60
+Score from Essentials Budget Compliance:  4
+Score from Non-Essentials Budget Compliance:  -2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the non-essential budget.
+Final Score for the month: 72
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2021-12
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2022-01
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2022-02
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2022-03
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2022-04
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2022-05
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2022-06
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2022-07
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-464.27
+Budget for Essentials: $-290.17
+Budget for Non-Essentials: $-174.10
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2022-08
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-976.27
+Budget for Essentials: $-610.17
+Budget for Non-Essentials: $-366.10
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2022-09
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2022-10
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2022-11
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2022-12
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-470.87
+Budget for Essentials: $-294.29
+Budget for Non-Essentials: $-176.58
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2023-01
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2023-02
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-481.67
+Budget for Essentials: $-301.04
+Budget for Non-Essentials: $-180.63
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2023-03
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-470.87
+Budget for Essentials: $-294.29
+Budget for Non-Essentials: $-176.58
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2023-04
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2023-05
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2023-06
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2023-07
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2023-08
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2023-09
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 063015 SF**POOL**, Amount: $5.40, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: United Airlines, Amount: $-500.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: McDonald's, Amount: $12.00, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Starbucks, Amount: $4.33, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: SparkFun, Amount: $89.40, Category: Other
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Transaction: Uber 072515 SF**POOL**, Amount: $6.33, Category: Non-Essential
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw, Month-Year: 2023-10
+Total spending on Essentials: $0.00
+Total spending on Non-Essentials: $-476.27
+Budget for Essentials: $-297.67
+Budget for Non-Essentials: $-178.60
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2021-11
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2021-12
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2022-01
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2022-02
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2022-03
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2022-04
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2022-05
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2022-06
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2022-07
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2022-08
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2022-09
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2022-10
+Total spending on Essentials: $11700.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $7312.50
+Budget for Non-Essentials: $4387.50
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2022-11
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2022-12
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2023-01
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2023-02
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2023-03
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2023-04
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2023-05
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2023-06
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2023-07
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2023-08
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2023-09
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Transaction: ACH Electronic CreditGUSTO PAY 123456, Amount: $5850.00, Category: Essential
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L, Month-Year: 2023-10
+Total spending on Essentials: $5850.00
+Total spending on Non-Essentials: $0.00
+Budget for Essentials: $3656.25
+Budget for Non-Essentials: $2193.75
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2021-11
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1000.00
+Budget for Essentials: $1924.06
+Budget for Non-Essentials: $1154.44
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2021-12
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2022-01
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2022-02
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2022-03
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2022-04
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2022-05
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2022-06
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2022-07
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2022-08
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1157.00
+Budget for Essentials: $2022.19
+Budget for Non-Essentials: $1213.31
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2022-09
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2022-10
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2022-11
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2022-12
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2023-01
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2023-02
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2023-03
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2023-04
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2023-05
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2023-06
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2023-07
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2023-08
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2023-09
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Touchstone Climbing, Amount: $78.50, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: United Airlines, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Tectra Inc, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: AUTOMATIC PAYMENT - THANK, Amount: $2078.50, Category: Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: KFC, Amount: $500.00, Category: Non-Essential
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Transaction: Madison Bicycle Shop, Amount: $500.00, Category: Other
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP, Month-Year: 2023-10
+Total spending on Essentials: $2078.50
+Total spending on Non-Essentials: $1078.50
+Budget for Essentials: $1973.12
+Budget for Non-Essentials: $1183.88
+Compliance with Essential budget: No
+Compliance with Non-Essential budget: Yes
+Base Score:  60
+Score from Essentials Budget Compliance:  -4
+Score from Non-Essentials Budget Compliance:  2
+Score from Savings:  10
+Account ID: pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP lost points for exceeding the essential budget.
+Final Score for the month: 68
+
+                                Account ID Month-Year  Assumed Total Income  \
+0    1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2021-11               31.2500   
+1    1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2021-12               20.7000   
+2    1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2022-01               25.9750   
+3    1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2022-02               31.2500   
+4    1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2022-03               20.7000   
+5    1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2022-04               25.9750   
+6    1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2022-05               25.9750   
+7    1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2022-06               25.9750   
+8    1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2022-07               25.9750   
+9    1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2022-08               25.9750   
+10   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2022-09               25.9750   
+11   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2022-10               25.9750   
+12   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2022-11               25.9750   
+13   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2022-12               57.2250   
+14   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2023-01               25.9750   
+15   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2023-02               -5.2750   
+16   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2023-03               57.2250   
+17   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2023-04               25.9750   
+18   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2023-05               25.9750   
+19   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2023-06               25.9750   
+20   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2023-07               25.9750   
+21   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2023-08               25.9750   
+22   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2023-09               25.9750   
+23   1GErvgE9ANFdK46JejG7iJDVnGjg9qCpaBo7n    2023-10               25.9750   
+24   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2021-11             1250.0000   
+25   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2021-12             1250.0000   
+26   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2022-01             1250.0000   
+27   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2022-02             1250.0000   
+28   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2022-03             1250.0000   
+29   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2022-04             1250.0000   
+30   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2022-05             1250.0000   
+31   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2022-06             1250.0000   
+32   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2022-07             1250.0000   
+33   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2022-08             1250.0000   
+34   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2022-09             1250.0000   
+35   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2022-10             2500.0000   
+36   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2022-11             1250.0000   
+37   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2022-12             1250.0000   
+38   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2023-01             1250.0000   
+39   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2023-02             1250.0000   
+40   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2023-03             1250.0000   
+41   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2023-04             1250.0000   
+42   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2023-05             1250.0000   
+43   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2023-06             1250.0000   
+44   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2023-07             1250.0000   
+45   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2023-08             1250.0000   
+46   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2023-09             1250.0000   
+47   LWDG1eDqAKuD38XmnpJbtQD6BM8gWVtkmwa8V    2023-10             1250.0000   
+48   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2021-11               14.6625   
+49   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2021-12             -595.3375   
+50   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2022-01             -595.3375   
+51   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2022-02             -595.3375   
+52   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2022-03             -595.3375   
+53   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2022-04             -595.3375   
+54   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2022-05             -595.3375   
+55   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2022-06             -595.3375   
+56   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2022-07             -580.3375   
+57   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2022-08            -1220.3375   
+58   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2022-09             -595.3375   
+59   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2022-10             -595.3375   
+60   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2022-11             -595.3375   
+61   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2022-12             -588.5875   
+62   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2023-01             -595.3375   
+63   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2023-02             -602.0875   
+64   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2023-03             -588.5875   
+65   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2023-04             -595.3375   
+66   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2023-05             -595.3375   
+67   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2023-06             -595.3375   
+68   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2023-07             -595.3375   
+69   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2023-08             -595.3375   
+70   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2023-09             -595.3375   
+71   MAD9LQDKnrC6ybzMWgE9fl6XoRx8eBtL5qyxw    2023-10             -595.3375   
+72   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2021-11             7312.5000   
+73   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2021-12             7312.5000   
+74   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2022-01             7312.5000   
+75   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2022-02             7312.5000   
+76   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2022-03             7312.5000   
+77   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2022-04             7312.5000   
+78   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2022-05             7312.5000   
+79   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2022-06             7312.5000   
+80   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2022-07             7312.5000   
+81   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2022-08             7312.5000   
+82   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2022-09             7312.5000   
+83   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2022-10            14625.0000   
+84   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2022-11             7312.5000   
+85   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2022-12             7312.5000   
+86   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2023-01             7312.5000   
+87   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2023-02             7312.5000   
+88   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2023-03             7312.5000   
+89   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2023-04             7312.5000   
+90   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2023-05             7312.5000   
+91   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2023-06             7312.5000   
+92   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2023-07             7312.5000   
+93   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2023-08             7312.5000   
+94   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2023-09             7312.5000   
+95   ornZPenw6qtodn96EAzGFe4zWrdZGaToPEy9L    2023-10             7312.5000   
+96   pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2021-11             3848.1250   
+97   pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2021-12             3946.2500   
+98   pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2022-01             3946.2500   
+99   pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2022-02             3946.2500   
+100  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2022-03             3946.2500   
+101  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2022-04             3946.2500   
+102  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2022-05             3946.2500   
+103  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2022-06             3946.2500   
+104  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2022-07             3946.2500   
+105  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2022-08             4044.3750   
+106  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2022-09             3946.2500   
+107  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2022-10             3946.2500   
+108  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2022-11             3946.2500   
+109  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2022-12             3946.2500   
+110  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2023-01             3946.2500   
+111  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2023-02             3946.2500   
+112  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2023-03             3946.2500   
+113  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2023-04             3946.2500   
+114  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2023-05             3946.2500   
+115  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2023-06             3946.2500   
+116  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2023-07             3946.2500   
+117  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2023-08             3946.2500   
+118  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2023-09             3946.2500   
+119  pznbjQnW6KienZgWVB7EiMQJezZLo1hpqangP    2023-10             3946.2500   
+
+     Budget for Essentials  Budget for Non-Essentials  Essential Spending  \
+0                 15.62500                    9.37500               25.00   
+1                 10.35000                    6.21000               16.56   
+2                 12.98750                    7.79250               20.78   
+3                 15.62500                    9.37500               25.00   
+4                 10.35000                    6.21000               16.56   
+5                 12.98750                    7.79250               20.78   
+6                 12.98750                    7.79250               20.78   
+7                 12.98750                    7.79250               20.78   
+8                 12.98750                    7.79250               20.78   
+9                 12.98750                    7.79250               20.78   
+10                12.98750                    7.79250               20.78   
+11                12.98750                    7.79250               20.78   
+12                12.98750                    7.79250               20.78   
+13                28.61250                   17.16750               45.78   
+14                12.98750                    7.79250               20.78   
+15                -2.63750                   -1.58250               -4.22   
+16                28.61250                   17.16750               45.78   
+17                12.98750                    7.79250               20.78   
+18                12.98750                    7.79250               20.78   
+19                12.98750                    7.79250               20.78   
+20                12.98750                    7.79250               20.78   
+21                12.98750                    7.79250               20.78   
+22                12.98750                    7.79250               20.78   
+23                12.98750                    7.79250               20.78   
+24               625.00000                  375.00000             1000.00   
+25               625.00000                  375.00000             1000.00   
+26               625.00000                  375.00000             1000.00   
+27               625.00000                  375.00000             1000.00   
+28               625.00000                  375.00000             1000.00   
+29               625.00000                  375.00000             1000.00   
+30               625.00000                  375.00000             1000.00   
+31               625.00000                  375.00000             1000.00   
+32               625.00000                  375.00000             1000.00   
+33               625.00000                  375.00000             1000.00   
+34               625.00000                  375.00000             1000.00   
+35              1250.00000                  750.00000             2000.00   
+36               625.00000                  375.00000             1000.00   
+37               625.00000                  375.00000             1000.00   
+38               625.00000                  375.00000             1000.00   
+39               625.00000                  375.00000             1000.00   
+40               625.00000                  375.00000             1000.00   
+41               625.00000                  375.00000             1000.00   
+42               625.00000                  375.00000             1000.00   
+43               625.00000                  375.00000             1000.00   
+44               625.00000                  375.00000             1000.00   
+45               625.00000                  375.00000             1000.00   
+46               625.00000                  375.00000             1000.00   
+47               625.00000                  375.00000             1000.00   
+48                 7.33125                    4.39875                0.00   
+49              -297.66875                 -178.60125                0.00   
+50              -297.66875                 -178.60125                0.00   
+51              -297.66875                 -178.60125                0.00   
+52              -297.66875                 -178.60125                0.00   
+53              -297.66875                 -178.60125                0.00   
+54              -297.66875                 -178.60125                0.00   
+55              -297.66875                 -178.60125                0.00   
+56              -290.16875                 -174.10125                0.00   
+57              -610.16875                 -366.10125                0.00   
+58              -297.66875                 -178.60125                0.00   
+59              -297.66875                 -178.60125                0.00   
+60              -297.66875                 -178.60125                0.00   
+61              -294.29375                 -176.57625                0.00   
+62              -297.66875                 -178.60125                0.00   
+63              -301.04375                 -180.62625                0.00   
+64              -294.29375                 -176.57625                0.00   
+65              -297.66875                 -178.60125                0.00   
+66              -297.66875                 -178.60125                0.00   
+67              -297.66875                 -178.60125                0.00   
+68              -297.66875                 -178.60125                0.00   
+69              -297.66875                 -178.60125                0.00   
+70              -297.66875                 -178.60125                0.00   
+71              -297.66875                 -178.60125                0.00   
+72              3656.25000                 2193.75000             5850.00   
+73              3656.25000                 2193.75000             5850.00   
+74              3656.25000                 2193.75000             5850.00   
+75              3656.25000                 2193.75000             5850.00   
+76              3656.25000                 2193.75000             5850.00   
+77              3656.25000                 2193.75000             5850.00   
+78              3656.25000                 2193.75000             5850.00   
+79              3656.25000                 2193.75000             5850.00   
+80              3656.25000                 2193.75000             5850.00   
+81              3656.25000                 2193.75000             5850.00   
+82              3656.25000                 2193.75000             5850.00   
+83              7312.50000                 4387.50000            11700.00   
+84              3656.25000                 2193.75000             5850.00   
+85              3656.25000                 2193.75000             5850.00   
+86              3656.25000                 2193.75000             5850.00   
+87              3656.25000                 2193.75000             5850.00   
+88              3656.25000                 2193.75000             5850.00   
+89              3656.25000                 2193.75000             5850.00   
+90              3656.25000                 2193.75000             5850.00   
+91              3656.25000                 2193.75000             5850.00   
+92              3656.25000                 2193.75000             5850.00   
+93              3656.25000                 2193.75000             5850.00   
+94              3656.25000                 2193.75000             5850.00   
+95              3656.25000                 2193.75000             5850.00   
+96              1924.06250                 1154.43750             2078.50   
+97              1973.12500                 1183.87500             2078.50   
+98              1973.12500                 1183.87500             2078.50   
+99              1973.12500                 1183.87500             2078.50   
+100             1973.12500                 1183.87500             2078.50   
+101             1973.12500                 1183.87500             2078.50   
+102             1973.12500                 1183.87500             2078.50   
+103             1973.12500                 1183.87500             2078.50   
+104             1973.12500                 1183.87500             2078.50   
+105             2022.18750                 1213.31250             2078.50   
+106             1973.12500                 1183.87500             2078.50   
+107             1973.12500                 1183.87500             2078.50   
+108             1973.12500                 1183.87500             2078.50   
+109             1973.12500                 1183.87500             2078.50   
+110             1973.12500                 1183.87500             2078.50   
+111             1973.12500                 1183.87500             2078.50   
+112             1973.12500                 1183.87500             2078.50   
+113             1973.12500                 1183.87500             2078.50   
+114             1973.12500                 1183.87500             2078.50   
+115             1973.12500                 1183.87500             2078.50   
+116             1973.12500                 1183.87500             2078.50   
+117             1973.12500                 1183.87500             2078.50   
+118             1973.12500                 1183.87500             2078.50   
+119             1973.12500                 1183.87500             2078.50   
+
+     Non-Essential Spending  Final Financial Game Score  
+0                      0.00                          68  
+1                      0.00                          68  
+2                      0.00                          68  
+3                      0.00                          68  
+4                      0.00                          68  
+5                      0.00                          68  
+6                      0.00                          68  
+7                      0.00                          68  
+8                      0.00                          68  
+9                      0.00                          68  
+10                     0.00                          68  
+11                     0.00                          68  
+12                     0.00                          68  
+13                     0.00                          68  
+14                     0.00                          68  
+15                     0.00                          72  
+16                     0.00                          68  
+17                     0.00                          68  
+18                     0.00                          68  
+19                     0.00                          68  
+20                     0.00                          68  
+21                     0.00                          68  
+22                     0.00                          68  
+23                     0.00                          68  
+24                     0.00                          68  
+25                     0.00                          68  
+26                     0.00                          68  
+27                     0.00                          68  
+28                     0.00                          68  
+29                     0.00                          68  
+30                     0.00                          68  
+31                     0.00                          68  
+32                     0.00                          68  
+33                     0.00                          68  
+34                     0.00                          68  
+35                     0.00                          68  
+36                     0.00                          68  
+37                     0.00                          68  
+38                     0.00                          68  
+39                     0.00                          68  
+40                     0.00                          68  
+41                     0.00                          68  
+42                     0.00                          68  
+43                     0.00                          68  
+44                     0.00                          68  
+45                     0.00                          68  
+46                     0.00                          68  
+47                     0.00                          68  
+48                    11.73                          72  
+49                  -476.27                          68  
+50                  -476.27                          68  
+51                  -476.27                          68  
+52                  -476.27                          68  
+53                  -476.27                          68  
+54                  -476.27                          68  
+55                  -476.27                          68  
+56                  -464.27                          68  
+57                  -976.27                          68  
+58                  -476.27                          68  
+59                  -476.27                          68  
+60                  -476.27                          68  
+61                  -470.87                          68  
+62                  -476.27                          68  
+63                  -481.67                          68  
+64                  -470.87                          68  
+65                  -476.27                          68  
+66                  -476.27                          68  
+67                  -476.27                          68  
+68                  -476.27                          68  
+69                  -476.27                          68  
+70                  -476.27                          68  
+71                  -476.27                          68  
+72                     0.00                          68  
+73                     0.00                          68  
+74                     0.00                          68  
+75                     0.00                          68  
+76                     0.00                          68  
+77                     0.00                          68  
+78                     0.00                          68  
+79                     0.00                          68  
+80                     0.00                          68  
+81                     0.00                          68  
+82                     0.00                          68  
+83                     0.00                          68  
+84                     0.00                          68  
+85                     0.00                          68  
+86                     0.00                          68  
+87                     0.00                          68  
+88                     0.00                          68  
+89                     0.00                          68  
+90                     0.00                          68  
+91                     0.00                          68  
+92                     0.00                          68  
+93                     0.00                          68  
+94                     0.00                          68  
+95                     0.00                          68  
+96                  1000.00                          68  
+97                  1078.50                          68  
+98                  1078.50                          68  
+99                  1078.50                          68  
+100                 1078.50                          68  
+101                 1078.50                          68  
+102                 1078.50                          68  
+103                 1078.50                          68  
+104                 1078.50                          68  
+105                 1157.00                          68  
+106                 1078.50                          68  
+107                 1078.50                          68  
+108                 1078.50                          68  
+109                 1078.50                          68  
+110                 1078.50                          68  
+111                 1078.50                          68  
+112                 1078.50                          68  
+113                 1078.50                          68  
+114                 1078.50                          68  
+115                 1078.50                          68  
+116                 1078.50                          68  
+117                 1078.50                          68  
+118                 1078.50                          68  
+119                 1078.50                          68  
