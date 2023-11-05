@@ -1,5 +1,8 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
 import 'main.dart';
+import 'package:http/http.dart' as http;
 
 class LessonsPage extends StatelessWidget {
   const LessonsPage({super.key});
@@ -75,6 +78,7 @@ Widget createCard(
                   ElevatedButton(
                     onPressed: () {
                       _openAnimatedDialog(context, header, body);
+                      fetchAlbum();
                     },
                     style: ElevatedButton.styleFrom(
                       elevation: 50,
@@ -131,4 +135,32 @@ void _openAnimatedDialog(BuildContext context, String header, String body) {
           ));
     },
   );
+}
+
+Future<String> fetchAlbum() async {
+  final response =
+      await http.post(Uri.parse('https://api.openai.com/v1/chat/completions'),
+          headers: <String, String>{
+            'Content-Type': 'application/json; charset=UTF-8',
+            'Authorization':
+                'Bearer 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'
+          },
+          body: jsonEncode({
+            'model': 'gpt-3.5-turbo',
+            'messages': [
+              {
+                "role": "user",
+                "content": "Tell me something about Justin Bieber"
+              }
+            ]
+          }));
+
+  if (response.statusCode == 200) {
+    // return Album.fromJson(jsonDecode(response.body) as Map<String, dynamic>);
+    print(response.body);
+    return Future(() => "asdsdasd");
+  } else {
+    print(response.body);
+    throw Exception('Failed to load album');
+  }
 }
