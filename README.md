@@ -12,7 +12,27 @@ Then we used GPT to summarize and create a scorecard of the data, which we later
 
 ## Running the Front End
 
-Download Flutter from flutter.dev
+### System Requirements
+
+Before you begin, ensure that your development environment meets Flutter's system requirements:
+
+- **Operating Systems**: Windows 7 SP1 or later (64-bit), x86-64 based, MacOS (64-bit), Linux (64-bit)
+- **Disk Space**: 1.64 GB (does not include disk space for IDE/tools).
+- **Tools**: Flutter depends on these command-line tools being available in your environment.
+- **Shared Libraries**: Linux: `gtk` 3.0 or later, `lsb_release`
+
+### Flutter Installation
+
+1. **Download the Flutter SDK**:
+   - Go to https://flutter.dev to download the latest stable release of the SDK.
+   - Extract the zip file to a desired location on your file system (e.g., `C:\src\flutter`, `/home/username/flutter`).
+
+2. **Update your path**:
+   - Add the `flutter/bin` directory to your PATH environment variable.
+   - On Windows, you can do this through the System Properties (WinKey + Pause), Advanced system settings, Environment Variables.
+   - On macOS and Linux, edit your shell's rc file (e.g., `~/.bashrc`, `~/.zshrc`) and add the export command at the end.
+
+Run the flutter Command
 
 ```sh
 flutter run
