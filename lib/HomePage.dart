@@ -16,9 +16,10 @@ class HomePage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.start,
           children: <Widget>[
+            // Top Padding
             const Padding(
               padding:
-                  EdgeInsets.only(top: 20), // Padding at the top of the page.
+                EdgeInsets.only(top: 20), // Padding at the top of the page.
               child: Align(
                 alignment: Alignment.topCenter,
                 child: Text(
@@ -32,23 +33,11 @@ class HomePage extends StatelessWidget {
                 ),
               ),
             ),
-            const SizedBox(
-                height: 90), // Space between welcome text and MoneyMentor core.
-            const Align(
-              alignment: Alignment.center,
-              child: Text(
-                'MoneyMentor Score:',
-                style: TextStyle(
-                  fontSize: 20,
-                  fontWeight: FontWeight.bold,
-                  color: Colors
-                      .white, // Again, assuming white text color from the theme.
-                ),
-              ),
-            ),
+            // Space between welcome text and MoneyMentor core.
             const SizedBox(
                 height:
-                    40), // Space between score description and the score button.
+                    170),
+            // Stack to hold the Score Button
             Stack(
               alignment: Alignment.center,
               children: [
@@ -63,84 +52,24 @@ class HomePage extends StatelessWidget {
                 ), // This widget displays the score and is interactive.
               ],
             ),
-            const SizedBox(
-                height: 20), // Space below the score before the button tray.
-            const Expanded(
-              child:
-                  ButtonTray(), // Your custom widget for additional options or navigation.
-            ),
+            // Space Between Score Button and the MoneyMentor Score Title
+            const SizedBox(height: 50),
+            // MoneyMentor Allignment
+            const Align(
+              alignment: Alignment.center,
+              child: Text(
+                'MoneyMentor Score',
+                style: TextStyle(
+                  fontSize: 20,
+                  fontWeight: FontWeight.bold,
+                  color: Colors
+                    .white, // Again, assuming white text color from the theme.
+                ),
+              )
+            ), // Space below the score before the button tray.
           ],
         ),
       ),
-    );
-  }
-}
-
-class ButtonTray extends StatelessWidget {
-  const ButtonTray({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Row(
-      mainAxisAlignment: MainAxisAlignment
-          .spaceEvenly, // Evenly distribute the space between buttons
-      children: <Widget>[
-        // First button with an icon
-        ElevatedButton(
-          style: ElevatedButton.styleFrom(
-            shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(30), // Rounded corners
-            ),
-            padding: const EdgeInsets.all(40),
-            backgroundColor: buttonColor,
-            foregroundColor: buttonText,
-            elevation: 50,
-            shadowColor: Colors.black,
-          ),
-          onPressed: () {
-            //do some shit i guess
-          },
-          child: const Icon(Icons.pie_chart,
-              size: 40), // You can change this to any icon you want
-        ),
-
-        // Second button with an icon
-        ElevatedButton(
-          style: ElevatedButton.styleFrom(
-            shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(30), // Rounded corners
-            ),
-            padding: const EdgeInsets.all(40),
-            backgroundColor: buttonColor,
-            foregroundColor: buttonText,
-            elevation: 50,
-            shadowColor: Colors.black,
-          ),
-          onPressed: () {
-            // Handle the button press for the second button
-          },
-          child: const Icon(Icons.school, size: 40), // Change this icon as well
-        ),
-
-        // Third button with an icon
-        ElevatedButton(
-          style: ElevatedButton.styleFrom(
-            shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(30), // Rounded corners
-            ),
-            padding: const EdgeInsets.all(40),
-            backgroundColor: buttonColor,
-            foregroundColor: buttonText,
-            elevation: 50,
-            shadowColor: Colors.black,
-          ),
-          onPressed: () {
-            // Handle the button press for the third button
-          },
-          child:
-              const Icon(Icons.line_axis, size: 40), // Change this icon as well
-        ),
-      ],
     );
   }
 }

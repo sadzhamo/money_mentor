@@ -1,5 +1,122 @@
+// ignore_for_file: use_build_context_synchronously
+
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
 import 'main.dart';
+import 'package:http/http.dart' as http;
+
+class ChatGPTResponse {
+  String? id;
+  String? object;
+  int? created;
+  String? model;
+  List<Choices>? choices;
+  Usage? usage;
+
+  ChatGPTResponse(
+      {this.id,
+      this.object,
+      this.created,
+      this.model,
+      this.choices,
+      this.usage});
+
+  ChatGPTResponse.fromJson(Map<String, dynamic> json) {
+    id = json['id'];
+    object = json['object'];
+    created = json['created'];
+    model = json['model'];
+    if (json['choices'] != null) {
+      choices = <Choices>[];
+      json['choices'].forEach((v) {
+        choices!.add(new Choices.fromJson(v));
+      });
+    }
+    usage = json['usage'] != null ? new Usage.fromJson(json['usage']) : null;
+  }
+
+  Map<String, dynamic> toJson() {
+    final Map<String, dynamic> data = new Map<String, dynamic>();
+    data['id'] = this.id;
+    data['object'] = this.object;
+    data['created'] = this.created;
+    data['model'] = this.model;
+    if (this.choices != null) {
+      data['choices'] = this.choices!.map((v) => v.toJson()).toList();
+    }
+    if (this.usage != null) {
+      data['usage'] = this.usage!.toJson();
+    }
+    return data;
+  }
+}
+
+class Choices {
+  int? index;
+  Message? message;
+  String? finishReason;
+
+  Choices({this.index, this.message, this.finishReason});
+
+  Choices.fromJson(Map<String, dynamic> json) {
+    index = json['index'];
+    message =
+        json['message'] != null ? new Message.fromJson(json['message']) : null;
+    finishReason = json['finish_reason'];
+  }
+
+  Map<String, dynamic> toJson() {
+    final Map<String, dynamic> data = new Map<String, dynamic>();
+    data['index'] = this.index;
+    if (this.message != null) {
+      data['message'] = this.message!.toJson();
+    }
+    data['finish_reason'] = this.finishReason;
+    return data;
+  }
+}
+
+class Message {
+  String? role;
+  String? content;
+
+  Message({this.role, this.content});
+
+  Message.fromJson(Map<String, dynamic> json) {
+    role = json['role'];
+    content = json['content'];
+  }
+
+  Map<String, dynamic> toJson() {
+    final Map<String, dynamic> data = new Map<String, dynamic>();
+    data['role'] = this.role;
+    data['content'] = this.content;
+    return data;
+  }
+}
+
+class Usage {
+  int? promptTokens;
+  int? completionTokens;
+  int? totalTokens;
+
+  Usage({this.promptTokens, this.completionTokens, this.totalTokens});
+
+  Usage.fromJson(Map<String, dynamic> json) {
+    promptTokens = json['prompt_tokens'];
+    completionTokens = json['completion_tokens'];
+    totalTokens = json['total_tokens'];
+  }
+
+  Map<String, dynamic> toJson() {
+    final Map<String, dynamic> data = new Map<String, dynamic>();
+    data['prompt_tokens'] = this.promptTokens;
+    data['completion_tokens'] = this.completionTokens;
+    data['total_tokens'] = this.totalTokens;
+    return data;
+  }
+}
 
 class LessonsPage extends StatelessWidget {
   const LessonsPage({super.key});
@@ -73,8 +190,9 @@ Widget createCard(
                 children: <Widget>[
                   const Spacer(),
                   ElevatedButton(
-                    onPressed: () {
-                      _openAnimatedDialog(context, header, body);
+                    onPressed: () async {
+                      var resp = await fetchChatGPT(header);
+                      _openAnimatedDialog(context, header, resp);
                     },
                     style: ElevatedButton.styleFrom(
                       elevation: 50,
@@ -82,7 +200,7 @@ Widget createCard(
                     ),
                     child: const Center(
                       child: Text(
-                        "Start",
+                        "Read more",
                         style: TextStyle(
                           color: buttonText,
                           fontSize: 16,
@@ -108,7 +226,8 @@ Widget createCard(
 //                               content: Text("Lorem ipsum dolor si"));
 // 						  }
 
-void _openAnimatedDialog(BuildContext context, String header, String body) {
+void _openAnimatedDialog(
+    BuildContext context, String header, ChatGPTResponse body) {
   showGeneralDialog(
     context: context,
     barrierDismissible: true,
@@ -124,11 +243,38 @@ void _openAnimatedDialog(BuildContext context, String header, String body) {
             opacity: Tween<double>(begin: 0.5, end: 1.0).animate(a1),
             child: AlertDialog(
                 title: Text(header),
-                content: Text(body),
+                content: Text(body.choices![0].message!.content.toString()),
                 shape: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(16.0),
                     borderSide: BorderSide.none)),
           ));
     },
   );
+}
+
+Future<ChatGPTResponse> fetchChatGPT(String subject) async {
+  final response =
+      await http.post(Uri.parse('https://api.openai.com/v1/chat/completions'),
+          headers: <String, String>{
+            'Content-Type': 'application/json; charset=UTF-8',
+            'Authorization': 'Bearer <API_Key>'
+          },
+          body: jsonEncode({
+            'model': 'gpt-3.5-turbo',
+            'messages': [
+              {
+                "role": "user",
+                "content":
+                    "Tell me something about $subject and make it unique everytime and make it formal"
+              }
+            ],
+            "max_tokens": 60
+          }));
+
+  if (response.statusCode == 200) {
+    return ChatGPTResponse.fromJson(
+        jsonDecode(response.body) as Map<String, dynamic>);
+  } else {
+    throw Exception('Failed to load album');
+  }
 }
