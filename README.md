@@ -15,7 +15,7 @@ Then we used GPT to summarize and create a scorecard of the data, which we later
 Download Flutter from flutter.dev
 
 ```sh
-pip install jupyter
+flutter run
 ```
 
 ## Running the Backend Notebooks
