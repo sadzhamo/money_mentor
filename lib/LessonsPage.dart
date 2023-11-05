@@ -125,10 +125,13 @@ class LessonsPage extends StatelessWidget {
   Widget build(BuildContext context) {
     List<Widget> Cards = [
       createCard(
-          'images/interest.jpg', "Interest", "interest description", context),
+          'images/interest.jpg',
+          "Interest",
+          "Interest is a fee or charge for the use of borrowed money, typically expressed as a percentage of the loan amount. It is the cost of borrowing or the compensation a lender receives for providing funds to a borrower.",
+          context),
       createCard(
           'images/interest.jpg', "Debt", "dont use credit cards", context),
-      createCard('images/interest.jpg', "Interest", "3333", context)
+      createCard('images/interest.jpg', "Investment", "3333", context)
     ];
     return SingleChildScrollView(
       child: Padding(
@@ -257,7 +260,8 @@ Future<ChatGPTResponse> fetchChatGPT(String subject) async {
       await http.post(Uri.parse('https://api.openai.com/v1/chat/completions'),
           headers: <String, String>{
             'Content-Type': 'application/json; charset=UTF-8',
-            'Authorization': 'Bearer <API_Key>'
+            'Authorization':
+                'Bearer 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'
           },
           body: jsonEncode({
             'model': 'gpt-3.5-turbo',

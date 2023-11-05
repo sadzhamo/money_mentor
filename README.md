@@ -12,6 +12,12 @@ Then we used GPT to summarize and create a scorecard of the data, which we later
 
 ## Running the Front End
 
+Download Flutter from flutter.dev
+
+'''sh
+flutter run
+'''
+
 ## Running the Backend Notebooks
 
 To run the Jupyter Notebooks for the backend, you need to have a Python environment set up with Jupyter installed. Here are the steps to get the backend up and running:
