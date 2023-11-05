@@ -130,8 +130,15 @@ class LessonsPage extends StatelessWidget {
           "Interest is a fee or charge for the use of borrowed money, typically expressed as a percentage of the loan amount. It is the cost of borrowing or the compensation a lender receives for providing funds to a borrower.",
           context),
       createCard(
-          'images/interest.jpg', "Debt", "dont use credit cards", context),
-      createCard('images/interest.jpg', "Investment", "3333", context)
+          'images/debt.jpg',
+          "Debt",
+          "Debt is borrowed money that must be repaid, often with interest, over a specified period.",
+          context),
+      createCard(
+          'images/taxes.jpg',
+          "Taxes",
+          "Taxes are compulsory payments to government, funding public services like education, healthcare, and infrastructure development.",
+          context)
     ];
     return SingleChildScrollView(
       child: Padding(
