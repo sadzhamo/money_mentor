@@ -10,6 +10,8 @@ The application is still in the prototyping stage and is mainly going to be pres
 
 Then we used GPT to summarize and create a scorecard of the data, which we later display in the frontend. The frontend is made using Flutter.
 
+Product Presentation: https://www.canva.com/design/DAFzRxVR8PU/MAA4PjW8pOph6xXZFGaqVg/edit?utm_content=DAFzRxVR8PU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Running the Front End
 
 ### System Requirements
