@@ -1,5 +1,7 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
+import 'package:money_mentor/BudgetPage.dart';
+import 'package:money_mentor/InterestPage.dart';
 import 'LessonsPage.dart';
 import 'HomePage.dart';
 import 'ScorecardPage.dart';
@@ -8,6 +10,8 @@ import 'SpendingPage.dart';
 const Color buttonColor = Colors.teal;
 const Color buttonText = Colors.white;
 const Color backgroundColor = Color.fromARGB(255, 58, 58, 60);
+
+const String score = '50';
 
 void main() {
   runApp(const MyApp());
@@ -25,7 +29,7 @@ class MyApp extends StatelessWidget {
       ),
       routes: {
         "/": (context) => const MainPage(),
-        "/score": (context) => ScorecardPage(score: 'score')
+        "/score": (context) => ScorecardPage(score: score)
       },
     );
   }
@@ -43,9 +47,10 @@ class _MainPageState extends State<MainPage> {
   int _selectedIndex = 2;
   var pages = {
     0: SpendingPage(),
-    1: ScorecardPage(score: '123'),
+    1: BudgetPage(),
     2: const HomePage(),
-    3: const LessonsPage()
+    3: const LessonsPage(),
+    4: InterestPage(),
   };
   @override
   void initState() {
