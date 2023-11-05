@@ -41,30 +41,30 @@ class _MyAppState extends State<BudgetPage> {
                 Expanded(
                   child: TextField(
                     style: TextStyle(
-                      color: buttonText,
+                      color: Colors.white,
                     ),
                     controller: nameControllers[i - 1],
                     decoration: InputDecoration(
                       labelText: 'Name for Field',
-                      labelStyle: TextStyle(color: buttonText),
+                      labelStyle: TextStyle(color: Colors.white),
                     ),
                   ),
                 ),
                 Expanded(
                   child: TextField(
                     style: TextStyle(
-                      color: buttonText,
+                      color: Colors.white,
                     ),
                     controller: textControllers[i - 1],
                     keyboardType: TextInputType.number,
                     decoration: InputDecoration(
                       labelText: 'Enter Amount (\$)',
-                      labelStyle: TextStyle(color: buttonText),
+                      labelStyle: TextStyle(color: Colors.white),
                     ),
                   ),
                 ),
                 IconButton(
-                  icon: Icon(Icons.remove, color: buttonText),
+                  icon: Icon(Icons.remove, color: Colors.white),
                   onPressed: () {
                     textControllers.removeAt(i - 1);
                     nameControllers.removeAt(i - 1);
@@ -108,25 +108,31 @@ class _MyAppState extends State<BudgetPage> {
             children: [
               Expanded(
                 child: TextField(
+                  style: TextStyle(
+                      color: Colors.white,
+                  ),
                   controller: nameControllers.last,
                   decoration: InputDecoration(
                     labelText: 'Name for Field',
-                    labelStyle: TextStyle(color: buttonText),
+                    labelStyle: TextStyle(color: Colors.white),
                   ),
-                ),
+               ) ,
               ),
               Expanded(
                 child: TextField(
+                  style: TextStyle(
+                      color: Colors.white,
+                  ),
                   controller: textControllers.last,
                   keyboardType: TextInputType.number,
                   decoration: InputDecoration(
-                    labelText: 'Enter Integer (\$)',
-                    labelStyle: TextStyle(color: buttonText),
+                    labelText: 'Name for Field',
+                    labelStyle: TextStyle(color: Colors.white),
                   ),
                 ),
               ),
               IconButton(
-                icon: Icon(Icons.remove, color: buttonText),
+                icon: Icon(Icons.remove, color: Colors.white),
                 onPressed: () {
                   textControllers.removeAt(textControllers.length - 1);
                   nameControllers.removeAt(nameControllers.length - 1);
@@ -176,7 +182,7 @@ class _MyAppState extends State<BudgetPage> {
                             style: TextStyle(
                               fontSize: 24,
                               fontWeight: FontWeight.bold,
-                              color: buttonText,
+                              color: Colors.white,
                             ),
                           ),
                         ),
@@ -192,7 +198,7 @@ class _MyAppState extends State<BudgetPage> {
                             chartRadius: MediaQuery.of(context).size.width / 2,
                             legendOptions: LegendOptions(
                               legendPosition: LegendPosition.right,
-                              legendTextStyle: TextStyle(color: buttonText),
+                              legendTextStyle: TextStyle(color: Colors.white),
                               showLegends: true,
                             ),
                           )
@@ -204,7 +210,7 @@ class _MyAppState extends State<BudgetPage> {
                     child: ElevatedButton(
                       style: ButtonStyle(backgroundColor: MaterialStateProperty.all<Color>(buttonColor),),
                       onPressed: addNewField,
-                      child: Icon(Icons.add, color: buttonText),
+                      child: Icon(Icons.add, color: Colors.white),
                     ),
                   ),
                   SizedBox(height: 20),
@@ -212,7 +218,7 @@ class _MyAppState extends State<BudgetPage> {
                     'Sum: $sum',
                     style: TextStyle(
                       fontSize: 24,
-                      color: buttonText,
+                      color: Colors.white,
                     ),
                   ),
                   SizedBox(height: 20),
